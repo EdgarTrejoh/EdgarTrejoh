@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://banca-mx-analysis.streamlit.app/)
 
 
-## Ceación de reportes a partir de fuentes de información públicas en México: 
+## Creación de reportes a partir de fuentes de información públicas en México: 
 
 | Entidad | Página web |
 |-----:    |-----------|
