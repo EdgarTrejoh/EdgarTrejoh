@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 Proyectos Destacados
 
 ### [📊 ECONODATA-MX (Streamlit App)](https://econodatamx-v1.streamlit.app/)
-Plataforma desarrollada con **Python**, **Pandas**, **Plotly** y APIs públicas (Banxico, SHF, INEGI) para visualizar de forma interactiva indicadores económicos de México:
+Plataforma desarrollada con **Python**, **Pandas**, **Plotly** APIs públicas (INEGI) y API de Google Sheets para visualizar de forma interactiva indicadores económicos de México:
 
-- Tipo de cambio, tasas hipotecarias, cartera de crédito.
+- Tipo de cambio, taa de referencia de Banoce de pexico, tasas hipotecarias, cartera de crédito, cifra de la banca y más.
 - Dashboard visual y comparativo por año, institución, y tipo de tasa.
 
 ---
@@ -23,8 +23,8 @@ Plataforma desarrollada con **Python**, **Pandas**, **Plotly** y APIs públicas 
 
 - **Lenguajes:** Python, SQL, R
 - **Visualización:** Plotly, Seaborn, Power BI, Streamlit
-- **Bases de Datos:** Google Sheets API, Excel/Access, Pandas
-- **Otros:** Git, APIs públicas, automatización de reportes
+- **Bases de Datos:** Google Sheets API, Excel/Access, PostgreSQL
+- **Otros:** Git, APIs públicas, automatización de reportes y tareas
 
 ---
 
