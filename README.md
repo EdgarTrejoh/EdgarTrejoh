@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ### [📊 ECONODATA-MX (Streamlit App)](https://econodatamx-v1.streamlit.app/)
 Plataforma desarrollada con **Python**, **Pandas**, **Plotly** APIs públicas (INEGI) y API de Google Sheets para visualizar de forma interactiva indicadores económicos de México:
 
-- Tipo de cambio, taa de referencia de Banoce de pexico, tasas hipotecarias, cartera de crédito, cifra de la banca y más.
+- Tipo de cambio, tasa de referencia de Banco de México, tasas hipotecarias, cartera de crédito, cifra de la banca y más.
 - Dashboard visual y comparativo por año, institución, y tipo de tasa.
 
 ---
